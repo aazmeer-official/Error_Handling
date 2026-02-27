@@ -1,0 +1,24 @@
+{
+  "name": "error_handling",
+  "version": "1.0.0",
+  "description": "Starting with Custom Errors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aazmeer-official/Error_Handling.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/aazmeer-official/Error_Handling/issues"
+  },
+  "homepage": "https://github.com/aazmeer-official/Error_Handling#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
